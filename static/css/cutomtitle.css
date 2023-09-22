@@ -1,0 +1,9 @@
+.custom-heading {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    text-align: center;
+    margin-top: 100px;
+    left:50%;
+    font-size: 2.5em;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+}
